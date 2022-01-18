@@ -1,8 +1,6 @@
-# Seattle-Airbnb-Dataset-Udacity-Project1
-Airbnb Seattle Analysis
-Udacity DSND Write a Data Science Blog Post project
-
-
+Seattle-Airbnb-Dataset-Udacity-Project1
+Airbnb Seattle Analysis (dataset 2017)
+https://medium.com/@zhiyonghuang/seattle-airbnb-data-analysis-dataset-2017-93c987ba123f
 
 Libraries used
 pandas as pd 
@@ -25,3 +23,4 @@ The top six reasons of determing the price is "accomodates, number of bedroom, n
 The largest number of reviews are applied on the properties of low-middle range of price. It follows with the reality that low-middle price properties attract more customers than the high price ones. Most properties provide only 1 bedroom. The most expensive area like Southeast Magnolia, Portage Bay, Westlake in Seattle are all located near the water and close to the city centre.
 
 The blog post on Medium
+https://medium.com/@zhiyonghuang/seattle-airbnb-data-analysis-dataset-2017-93c987ba123f
