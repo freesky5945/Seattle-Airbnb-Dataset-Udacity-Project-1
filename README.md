@@ -1,16 +1,18 @@
 Seattle-Airbnb-Dataset-Udacity-Project1
 
 Airbnb Seattle Analysis (dataset 2017)
-https://medium.com/@zhiyonghuang/seattle-airbnb-data-analysis-dataset-2017-93c987ba123f
 
-Libraries used
-pandas as pd / matplotlib.pyplot as plt /numpy as np
+Blogpost:  https://medium.com/@zhiyonghuang/seattle-airbnb-data-analysis-dataset-2017-93c987ba123f
 
-Project Target
-For this porject, I analyze the Airbnb Data of 2017 to "Write a Data Science Blog Post project" for Udacity Date Science Nanodegree Project 1.
+
+Libraries used:  pandas as pd / matplotlib.pyplot as plt /numpy as np
+
+
+Project Target:  For this porject, I analyze the Airbnb Data of 2017 to "Write a Data Science Blog Post project" for Udacity Date Science Nanodegree Project 1.
 I mainly focus on the price, review, and the neighbourhood price time to answer specific questions
 
-Dataset Files
+
+Dataset Files: 
 seattle-airbnb-data-analysis.ipynb : The code notebook Airbnb Seattle Data
 Sseattle-airbnb-data-analysis.html :  online version of the code notebook for Airbnb Seattle Data
 
