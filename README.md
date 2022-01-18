@@ -3,10 +3,7 @@ Airbnb Seattle Analysis (dataset 2017)
 https://medium.com/@zhiyonghuang/seattle-airbnb-data-analysis-dataset-2017-93c987ba123f
 
 Libraries used
-
-pandas as pd 
-matplotlib.pyplot as plt
-numpy as np
+pandas as pd / matplotlib.pyplot as plt /numpy as np
 
 Project Target
 For this porject, I analyze the Airbnb Data of 2017 to "Write a Data Science Blog Post project" for Udacity Date Science Nanodegree Project 1.
