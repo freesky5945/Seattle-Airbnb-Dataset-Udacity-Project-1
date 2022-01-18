@@ -3,6 +3,7 @@ Airbnb Seattle Analysis (dataset 2017)
 https://medium.com/@zhiyonghuang/seattle-airbnb-data-analysis-dataset-2017-93c987ba123f
 
 Libraries used
+
 pandas as pd 
 matplotlib.pyplot as plt
 numpy as np
