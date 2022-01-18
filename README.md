@@ -24,5 +24,4 @@ Summary:
 
 3.The largest number of reviews are applied on the properties of low-middle range of price. It follows with the reality that low-middle price properties attract more customers than the high price ones. Most properties provide only 1 bedroom. The most expensive area like Southeast Magnolia, Portage Bay, Westlake in Seattle are all located near the water and close to the city centre.
 
-The blog post on Medium:
-https://medium.com/@zhiyonghuang/seattle-airbnb-data-analysis-dataset-2017-93c987ba123f
+Blogpost: https://medium.com/@zhiyonghuang/seattle-airbnb-data-analysis-dataset-2017-93c987ba123f
